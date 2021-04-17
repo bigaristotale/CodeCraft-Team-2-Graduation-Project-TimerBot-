@@ -1,8 +1,11 @@
 # CodeCraftBitirmeProjesi
 CodeCraft Team-2 Graduation Project
 To use the bot, you need to install
+
 -Discord.py
+
 -Async.io
+
 libraries and OS module on your device.
 You can run by typing Discord Bot Token in the space where it says "Tokeniniz".
 If you have trouble installing it on your device, you can try running it from the repl.it site.
@@ -12,8 +15,11 @@ FOR USE:
 Command Prefix = -
 
 Timer Command:
+
 Summoner: "-settime"
+
 Sends a reminder to the same text channel (as command) after the time you specify. (Tags you)
+
 There are 2 different usage possibilities.
 
 1- You can write in ("Hour Minute Second") format.
