@@ -24,7 +24,7 @@ There are 2 different usage possibilities.
 
 ![image](https://user-images.githubusercontent.com/81529415/115106632-9e8a1300-9f6e-11eb-987d-bf7e67f8afa1.png)
 
-In both cases, you have the output:
+In both cases, you have this output:
 
 ![image](https://user-images.githubusercontent.com/81529415/115106653-ba8db480-9f6e-11eb-89bf-963d1f0ca152.png)
 
