@@ -8,7 +8,7 @@ To use the bot, you need to install
 
 libraries and OS module on your device.
 You can run by typing Discord Bot Token in the space where it says "Tokeniniz".
-If you have trouble installing it on your device, you can try running it from the repl.it site.
+If you have trouble installing it on your device, you can try running it from the repl.it site.(My Repl Link: https://replit.com/@lgiALBAYRAK/Team-2-BotProject)
 
 
 FOR USE:
