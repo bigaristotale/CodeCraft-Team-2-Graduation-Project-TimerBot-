@@ -73,4 +73,4 @@ async def on_command_error(ctx,error):
 
 
 
-client.run("ODMyNzA5MTA4NDE5MDAyMzc4.YHnuyg.jOycO4HNj39FzuHHmBYhkFvX2D4")
+client.run("Tokeniniz")
